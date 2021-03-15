@@ -1,0 +1,3 @@
+# 本框架所需要的所有第三方包，若存在pycharm将会提示安装安装
+# 连接数据并固定mysql版本：查看mysql版本：pip show pymysql
+pymysql==1.0.2
